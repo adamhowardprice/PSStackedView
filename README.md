@@ -1,3 +1,5 @@
+## Adam's Fork: Subclassed PSStackedViewController for iPhone for Facebook/Path-like sidebar interface.
+
 ## PSStackedView - put your UIViewControllers in a stack, inspired by Twitter's iPAD UI.
 
 After reviewing other stacked implementations, i wrote my own solutions from scratch.
